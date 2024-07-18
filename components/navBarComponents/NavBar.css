@@ -1,0 +1,29 @@
+.navbarjsx{
+    background-color: #1c1c1d;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+
+.logoCiclo{
+    border-radius: 10px;
+    width: 80px;
+    margin: 5px 0 5px 0;
+}
+
+.navbarCentro{
+    margin: 0 20vw 0 20vw;
+    gap: 10px;
+    color: white;
+}
+
+.navbarCentro button{
+    color: rgb(14, 13, 13);
+    background-color: #6b8eda;
+    border-radius: 5px;
+    margin: 5px;
+    
+}
